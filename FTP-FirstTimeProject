@@ -1,8 +1,0 @@
-<script>var TLbx = {
-        partner: "linkvertisenet",
-        subid: "win-taskbar",
-        serpUrl: "https://linkvertise.com/search/{q}?ref=tb",
-        attachToID: "TLbx_inp",
-        ProcessURLtypeIns: 1,
-        quietConsole:false
-    }   </script>
